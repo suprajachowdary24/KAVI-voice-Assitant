@@ -3,6 +3,7 @@
 ## You can Have a look here
 
 
+<<<<<<< HEAD
 ## 
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)  ![Prs](https://img.shields.io/badge/PRs-Welcome-brightgreen)
@@ -84,6 +85,11 @@ You can refer to the following articles on the basics of Git and Github and also
 &nbsp;
 <p align="center">
 <img height="200" width ="200" src = "PYTHON_logo_and_wordmark.svg"></img>
+=======
+     Create
+     Contribute
+     clone
+>>>>>>> 5c5e82c78df198aa0b01add289bc221e63b54e29
 
 How it works:-https://user-images.githubusercontent.com/66834895/152769683-c30646af-9265-41d2-97ab-6ba0d34992a4.mp4
 
